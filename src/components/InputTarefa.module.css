@@ -1,0 +1,48 @@
+.form {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: -20px;
+}
+
+
+.inputTarefa {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    background-color: #202529;
+    border: 1px solid #1E6F9F;
+    border-radius: 8px;
+
+    min-width: 258px;
+    width: 600px;
+    height: 54px;
+    padding: 16px;
+    color: #F2F2F2;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+
+.buttonCreate {
+    background-color: #1E6F9F;
+    color: #F2F2F2;
+    border: none;
+    min-width: 60px;
+    width: 90px;
+    height: 52px;
+    border-radius: 8px;
+    cursor: pointer;
+    display: flex;
+    margin-right: 10px;
+    font-size: 1rem;
+    align-items: center;
+    justify-content: center;
+    gap: 1px;
+}
+
+
+.buttonCreate:hover {
+    background-color: #0b6294;
+}

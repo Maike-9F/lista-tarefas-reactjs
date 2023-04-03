@@ -1,0 +1,32 @@
+.tarefa {
+    min-width: 300px;
+    max-width: 640px;
+    margin: auto;
+    height: 72px;
+    color: #F2F2F2;
+    margin-top: 10px;
+    background-color: #202529;
+    display: flex;
+    padding: 16px;
+    gap: 12px;
+    border: 1px solid #333333;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+    align-items: center;
+}
+
+.checkBox{
+    display: flex;
+    float: left;
+}
+
+.label{
+    font-size: 1rem;
+}
+
+
+.trashIcon{
+    font-size: 2rem;
+    display: flex;
+    margin-left: auto;
+}
