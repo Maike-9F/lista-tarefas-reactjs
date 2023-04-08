@@ -2,6 +2,8 @@
 
 ## Sobre
 
+https://lista-tarefas-9.netlify.app
+
 Trata-se de uma simples aplicação de gerenciamento de tarefas com as funcionalidades de criar, marcar como concluída e excluir. O principal objetivo no desenvolvimento desse projeto é aplicar os principais fundamentos do ReactJS. 
 
 ## Fundamentos usados
